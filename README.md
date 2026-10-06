@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I’m Segun Aribido
 
-<!--
-**aribidoolusegun/aribidoolusegun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product & interaction designer based in the UK.
+I build useful design tools, Figma plugins, and playful web experiments.
 
-Here are some ideas to get you started:
+[Visit my portfolio](https://segun.design)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Things I’m building
+
+- [Glass Lens](https://github.com/aribidoolusegun/Glas-effect)
+  — An interactive glass playground. Type your name, explore refraction,
+  and hold to melt.
+
+- [Design System Auditor](https://github.com/aribidoolusegun/design-system-auditor)
+  — A Figma plugin for spotting inconsistencies and improving
+  design system quality.
+
+- [Animate This UI](https://github.com/aribidoolusegun/animate-this-ui)
+  — A Figma plugin for exploring motion and UI interactions.
+
+### My focus
+
+Thoughtful interfaces, expressive interactions, and tools
+that help designers do better work.
