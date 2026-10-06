@@ -1,6 +1,6 @@
 # Hi, I’m Segun Aribido
 
-Product & interaction designer based in the UK.
+Product & interaction designer.
 I build useful design tools, Figma plugins, and playful web experiments.
 
 [Visit my portfolio](https://segun.design)
